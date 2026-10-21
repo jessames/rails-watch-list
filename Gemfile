@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem "cloudinary"
+
 gem "dotenv-rails"
 
 gem "sprockets-rails"
