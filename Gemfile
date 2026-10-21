@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem "dotenv-rails"
+
 gem "sprockets-rails"
 gem "sassc-rails"
 gem "bootstrap", "~> 5.3"
